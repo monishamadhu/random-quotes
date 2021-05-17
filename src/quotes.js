@@ -26,23 +26,23 @@ export const Quotes = [
 },
 {
     id:5,
-    text:"Although the world is full of suffering, it is full also of the overcoming of it.",
-    author:"Helen Keller"
+    text:"Anger is the ultimate destroyer of your own peace of mind.",
+    author:"Dalai Lama"
 },
 {
     id:6,
-    text:"All great things are simple, and many can be expressed in single words: freedom, justice, honor, duty, mercy, hope.",
-    author:"Sir Winston Churchill"
+    text:"Don't be afraid. Be focused. Be determined. Be hopeful. Be empowered.",
+    author:"Michelle Obama"
 },
 {
     id:7,
-    text:"Have courage for the great sorrows of life and patience for the small ones; and when you have laboriously accomplished your daily task, go to sleep in peace. God is awake.",
-    author:"Victor Hugo"
+    text:"I had it in my heart. I believed in myself, and I had confidence. I knew how to do it, had natural talent and I pursued it.",
+    author:"Muhammad Ali"
 },
 {
     id:8,
-    text:"A problem well stated is a problem half solved.",
-    author:"Charles F. Kettering"
+    text:"Reading without reflecting is like eating without digesting." ,
+    author:"Edmund Burke"
 },
 {
     id:9,
